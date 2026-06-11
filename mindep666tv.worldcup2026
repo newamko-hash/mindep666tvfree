@@ -308,11 +308,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/streaming-gtv-kartun-masa-kecil-1-qv79ye7sk8hbtg5u3kmpfn2s6bbz1ma5cdbgx9xo26.jpg" group-title="Indonesia",GTV (HD)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 group-title="HIBURAN" tvg-name="KBS World" ch-number="323" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_4oku2lux/landscape_carousel_hdpi.webp",KBS World
+#EXTINF:-1 group-title="Indonesia" tvg-name="KBS World" ch-number="323" tvg-logo="https://images.maxstream.tv/sites/default/files/entry/0_4oku2lux/landscape_carousel_hdpi.webp",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.visionplus.id/images/repository/152/438152-SNAPSHOT-l.png",ONE HD 
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://www.visionplus.id/images/repository/152/438152-SNAPSHOT-l.png",ONE HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -357,7 +357,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
-#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.ibb.co.com/ynfqwNzR/NJ.png",NICK JR 
+#EXTINF:-1 group-title="Indonesia" tvg-logo="https://i.ibb.co.com/ynfqwNzR/NJ.png",NICK JR 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
